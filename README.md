@@ -7,8 +7,7 @@ This method requries that all values are missing in set of sequential columns, v
     This method requries that all values are missing in set of sequential columns, val1-val7.
 
     github
-    https://tinyurl.com/yauv8mzz
-    https://stackoverflow.com/questions/77026943/replace-all-missing-value-based-on-other-column-value
+    https://tinyurl.com/yauv8mzz](https://github.com/rogerjdeangelis/utl-replace-missing-values-with-constants-based-on-column-another-column
 
     StackOverflow
     https://stackoverflow.com/questions/77026943/replace-all-missing-value-based-on-other-column-value
